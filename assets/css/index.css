@@ -43,3 +43,8 @@ body {
     width: 20%;
     height: 20%;
 }
+
+.list-item-desc {
+    width: 50%;
+    height: 20%;
+}
