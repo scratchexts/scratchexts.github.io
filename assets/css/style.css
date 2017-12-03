@@ -57,3 +57,9 @@ body {
     color: white;
     font-size: 13px;
 }
+
+hr {
+    border: none;
+    border-bottom: 1px solid white;
+    width: 400px;
+}
