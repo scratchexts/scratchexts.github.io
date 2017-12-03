@@ -42,6 +42,7 @@ body {
 .list-item-icon {
     width: 20%;
     height: 20%;
+    background-color: #ccecf3;
 }
 
 .list-item-desc {
