@@ -40,19 +40,19 @@ body {
 }
 
 .list-item-icon {
-    width: 200px;
+    width: 198px;
     height: 200px;
     background-color: #ccecf3;
     display: inline-block;
-    margin: 3px 1.5px;
+    margin: 4px 2px;
 }
 
 .list-item-desc {
-    width: 500px;
+    width: 498px;
     height: 200px;
     background-color:	#00a3c7;
     display: inline-block;
     vertical-align: top;
-    margin: 3px 1.5px;
+    margin: 4px 2px;
     color: white;
 }
