@@ -11,6 +11,7 @@ body {
     background: -moz-linear-gradient(-120deg, #1981bc, #2F8DC2); /* For Firefox 3.6 to 15 */
     background: linear-gradient(-120deg, #1981bc, #2F8DC2); /* Standard syntax */
     overflow: hidden;
+    transition: all 1s ease;
 }
 
 .nav a {
