@@ -50,8 +50,9 @@ body {
 .list-item-desc {
     width: 500px;
     height: 200px;
-    background-color: #0073b5;
+    background-color:	#00a3c7;
     display: inline-block;
     vertical-align: top;
     margin: 3px 1.5px;
+    color: white;
 }
