@@ -32,6 +32,7 @@ body {
 
 .list-item-title {
     background-color:	#333434;
+    width: 70%;
     color: white;
     padding-top: 30px;
     padding-bottom: 30px;
