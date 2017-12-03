@@ -38,3 +38,8 @@ body {
     padding-bottom: 10px;
     font-size: 20px;
 }
+
+.list-item-icon {
+    width: 20%;
+    height: 20%;
+}
