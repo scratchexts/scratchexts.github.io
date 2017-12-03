@@ -32,7 +32,7 @@ body {
 
 .list-item-title {
     background-color:	#333434;
-    width: 70%;
+    width: 700px;
     color: white;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -40,14 +40,18 @@ body {
 }
 
 .list-item-icon {
-    width: 20%;
-    height: 20%;
+    width: 200px;
+    height: 200px;
     background-color: #ccecf3;
+    display: inline-block;
+    margin: 3px, 1.5px;
 }
 
 .list-item-desc {
-    width: 50%;
-    height: 20%;
+    width: 500px;
+    height: 200px;
     background-color: #0073b5;
-    display: inline;
+    display: inline-block;
+    vertical-align: top;
+    margin: 3px, 1.5px;
 }
