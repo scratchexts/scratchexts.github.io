@@ -47,4 +47,6 @@ body {
 .list-item-desc {
     width: 50%;
     height: 20%;
+    background-color: #0073b5;
+    display: inline;
 }
