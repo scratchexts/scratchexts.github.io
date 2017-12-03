@@ -3,3 +3,22 @@
 body {
  font-family: "Open Sans"; 
 }
+
+.nav {
+    background-color: #00a3c7;
+    overflow: hidden;
+}
+
+.nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: #0073b5;
+    color: whtie;
+}
