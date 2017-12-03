@@ -29,3 +29,9 @@ body {
     color: whtie;
     transition: all 1s ease;
 }
+
+.list-item-title {
+    background-color:	#333434;
+    color: white;
+    height: 25px;
+}
