@@ -26,4 +26,5 @@ body {
 .nav a:hover {
     background-color: #0073b5;
     color: whtie;
+    transition: all 1s ease;
 }
