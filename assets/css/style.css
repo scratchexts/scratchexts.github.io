@@ -44,7 +44,7 @@ body {
     height: 200px;
     background-color: #ccecf3;
     display: inline-block;
-    margin: 4px 2px;
+    margin: 8px 2px;
 }
 
 .list-item-desc {
@@ -53,6 +53,6 @@ body {
     background-color:	#00a3c7;
     display: inline-block;
     vertical-align: top;
-    margin: 4px 2px;
+    margin: 8px 2px;
     color: white;
 }
