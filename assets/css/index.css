@@ -6,10 +6,10 @@ body {
 
 .nav {
     background: #13ABE3; /* For browsers that do not support gradients */
-    background: -webkit-linear-gradient(-120deg, #16BFFD, #13ABE3, #1199CC); /* Safari 5.1 to 6.0 */
-    background: -o-linear-gradient(-120deg, #16BFFD, #13ABE3, #1199CC); /* For Opera 11.6 to 12.0 */
-    background: -moz-linear-gradient(-120deg, #16BFFD, #13ABE3, #1199CC); /* For Firefox 3.6 to 15 */
-    background: linear-gradient(-120deg, #16BFFD, #13ABE3, #1199CC); /* Standard syntax */
+    background: -webkit-linear-gradient(-120deg, #1981bc, #2F8DC2); /* Safari 5.1 to 6.0 */
+    background: -o-linear-gradient(-120deg, #1981bc, #2F8DC2); /* For Opera 11.6 to 12.0 */
+    background: -moz-linear-gradient(-120deg, #1981bc, #2F8DC2); /* For Firefox 3.6 to 15 */
+    background: linear-gradient(-120deg, #1981bc, #2F8DC2); /* Standard syntax */
     overflow: hidden;
 }
 
