@@ -12,6 +12,7 @@ body {
     background: linear-gradient(-120deg, #1981bc, #2F8DC2); /* Standard syntax */
     overflow: hidden;
     transition: all 1s ease;
+    transition: all 1s ease-out;
 }
 
 .nav a {
