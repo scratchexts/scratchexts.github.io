@@ -2,7 +2,9 @@
 
 body {
     font-family: "Open Sans"; 
-    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/paper_1.png");
+    background: url("https://mountainhost.github.io/host/all/scratchexts/dust_scratches.png");
+    overflow-y: scroll;
+    overflow-x: hidden;
 }
 
 .nav {
@@ -64,4 +66,24 @@ hr {
     border: none;
     border-bottom: 1px solid white;
     width: 400px;
+}
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: rgba(255,0,0,0.8); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: rgba(255,0,0,0.4); 
 }
