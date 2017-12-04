@@ -68,6 +68,8 @@ hr {
     width: 400px;
 }
 
+/* Credit to http://csstricks.com for the scrollbar CSS */
+
 ::-webkit-scrollbar {
     width: 12px;
 }
@@ -81,7 +83,7 @@ hr {
 ::-webkit-scrollbar-thumb {
     -webkit-border-radius: 10px;
     border-radius: 10px;
-    background: rgba(255,0,0,0.8); 
+    background: rgba(177, 166, 166, 0.2);
     -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
 }
 ::-webkit-scrollbar-thumb:window-inactive {
