@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Open Sans");
 
 body {
- font-family: "Open Sans"; 
+    font-family: "Open Sans"; 
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/paper_1.png");
 }
 
 .nav {
@@ -28,4 +29,39 @@ body {
     background-color: #0073b5;
     color: whtie;
     transition: all 1s ease;
+}
+
+.list-item-title {
+    background-color:	#333434;
+    width: 700px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 20px;
+}
+
+.list-item-icon {
+    width: 196px;
+    height: 200px;
+    background-color: white;
+    display: inline-block;
+    margin: 8px 2px;
+}
+
+.list-item-desc {
+    width: 496px;
+    height: 200px;
+    background-color:	#00a3c7;
+    display: inline-block;
+    vertical-align: top;
+    margin: 8px 2px;
+    color: white;
+    font-size: 13px;
+    overflow-y: scroll;
+}
+
+hr {
+    border: none;
+    border-bottom: 1px solid white;
+    width: 400px;
 }
