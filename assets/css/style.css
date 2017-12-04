@@ -2,7 +2,7 @@
 
 body {
     font-family: "Open Sans"; 
-    background: url("http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg");
+    background: url("https://www.toptal.com/designers/subtlepatterns/patterns/paper_1.png");
 }
 
 .nav {
@@ -43,7 +43,7 @@ body {
 .list-item-icon {
     width: 196px;
     height: 200px;
-    background-color: #ccecf3;
+    background-color: white;
     display: inline-block;
     margin: 8px 2px;
 }
