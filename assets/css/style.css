@@ -2,7 +2,7 @@
 
 body {
     font-family: "Open Sans"; 
-    background: url("https://github.com/mountainhost/host/blob/master/all/scratchexts/dust_scratches.png");
+    background: url("https://github.com/mountainhost/host/all/scratchexts/dust_scratches.png");
     overflow-y: scroll;
     overflow-x: hidden;
 }
