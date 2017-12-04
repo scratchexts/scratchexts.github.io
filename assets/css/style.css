@@ -1,7 +1,8 @@
 @import url("https://fonts.googleapis.com/css?family=Open Sans");
 
 body {
- font-family: "Open Sans"; 
+    font-family: "Open Sans"; 
+    background: url("http://www.designbolts.com/wp-content/uploads/2013/02/Rose-Grey-Seamless-Patterns-For-Website-Background.jpg");
 }
 
 .nav {
