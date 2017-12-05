@@ -116,3 +116,7 @@ a {
 	color: white;
 	text-decoration: none;
 }
+
+.list-item {
+	margin-bottom: 10px;
+}
