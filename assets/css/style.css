@@ -89,3 +89,18 @@ hr {
 ::-webkit-scrollbar-thumb:window-inactive {
 	background: rgba(255,0,0,0.4); 
 }
+
+.button { 
+	text-decoration: none;
+	margin: 3px;
+	background: #13ABE3; /* For browsers that do not support gradients */
+	background: -webkit-linear-gradient(-120deg, #1981bc, #2F8DC2); /* Safari 5.1 to 6.0 */
+	background: -o-linear-gradient(-120deg, #1981bc, #2F8DC2); /* For Opera 11.6 to 12.0 */
+	background: -moz-linear-gradient(-120deg, #1981bc, #2F8DC2); /* For Firefox 3.6 to 15 */
+	background: linear-gradient(-120deg, #1981bc, #2F8DC2); /* Standard syntax */
+	overflow: hidden;
+	transition: all 1s ease;
+	color: white;
+	text-align:center;
+	padding: 20px 50px;
+}
