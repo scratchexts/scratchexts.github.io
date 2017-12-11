@@ -112,7 +112,7 @@ hr {
     transition: all 1s ease;
 }
 
-nav > a { 
+nav a { 
 	color: white;
 	text-decoration: none;
 }
