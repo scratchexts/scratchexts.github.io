@@ -1,4 +1,4 @@
-![scratchexts.github.io](https://mountainhost.github.io/host/all/scratchexts/logo.png)
+![scratchexts.github.io](https://vutondesign.com/host/all/scratchexts/logo.png)
 
 ## About Scratchexts
 Scratchexts is a directory of a bunch of chrome extensions on scratch.
