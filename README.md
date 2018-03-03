@@ -8,7 +8,6 @@ Scratchexts is currently being hosted at scratchexts.github.io while it is being
 
 ## The people behind Scratchexts 
 - Owner - @GreenBayRules
-- Developer - @vutondesign
 - and all the contributors...
 
 ## Notes for contributors 
